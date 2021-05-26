@@ -1,0 +1,7 @@
+/* Css postitioning and after before is the most important topic o\in css3 and web page development   */
+*{
+    box-sizing: border-box;
+}
+p::before{
+    content: "JUst wow";
+}
